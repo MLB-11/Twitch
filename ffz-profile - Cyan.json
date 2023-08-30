@@ -1,0 +1,1 @@
+{"version":2,"type":"profile","profile":{"id":1,"name":"Cyan","description":"Les paramètres qui s'appliquent quand vous êtes mod pour la chaîne actuelle.","context":[]},"toggled":true,"values":{"theme.color.background":"#030608","chat.badges.hidden":{"moderator":false},"chat.badges.clickable":1,"chat.badges.style":6,"chat.badges.version":2}}
