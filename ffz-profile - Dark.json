@@ -1,1 +1,1 @@
-{"version":2,"type":"profile","profile":{"id":0,"name":"Dark","description":"en mode dark t'as vus","context":[]},"toggled":true,"values":{"theme.color.background":"#030608","chat.badges.hidden":{"moderator":false},"chat.badges.clickable":1,"chat.badges.style":6,"chat.badges.version":2}}
+{"version":2,"type":"profile","profile":{"id":0,"name":"Dark","description":"en mode dark t'as vus","context":[]},"toggled":true,"values":{"theme.color.background":"#010203","chat.badges.hidden":{"moderator":false},"chat.badges.clickable":1,"chat.badges.style":6,"chat.badges.version":2}}
